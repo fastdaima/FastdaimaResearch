@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "FastdaimaResearch"
+  site-url: "https://fastdaima.github.io/FastdaimaResearch"
+  description: "knowledge base about compilers, machine learning kernels, python and c++"
+  repo-branch: main
+  repo-url: "https://github.com/fastdaima/FastdaimaResearch"
