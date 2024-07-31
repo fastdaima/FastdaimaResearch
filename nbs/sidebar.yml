@@ -1,0 +1,13 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - 00_core.ipynb
+      - section: blog
+        contents:
+          - section: posts
+            contents:
+              - section: simple_rag_example
+                contents:
+                  - blog/posts/simple_rag_example/2024-07-31-simple-rag-example.ipynb
+        href: blog/index.qmd
