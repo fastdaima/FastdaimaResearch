@@ -1,0 +1,11 @@
+[
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/posts/rag/how-to-use-azureopenai-embeddings-in-lancedb.html",
+      "/blog/posts/linux_configurations/ubuntu-single-monitor-setup.html",
+      "/blog/posts/chat_with_research_paper/rag-chat-with-research-paper-beginner.html",
+      "/blog/posts/simple_rag_example/2024-07-31-simple-rag-example.html"
+    ]
+  }
+]
